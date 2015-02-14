@@ -1,0 +1,30 @@
+{
+  "name": "simple-flux",
+  "version": "0.0.1",
+  "description": "A little flux implementation inspired by refluxjs and focused on React components and ease of use.",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "flux",
+    "react",
+    "es6",
+    "simple"
+  ],
+  "author": "Anthony Camboni",
+  "license": "MIT",
+  "dependencies": {
+    "6to5ify": "^4.1.1",
+    "remutable": "^0.21.0"
+  },
+  "devDependencies": {
+    "react": "^0.12.2"
+  },
+  "browserify": {
+    "transform": ["6to5ify"]
+  }
+}
