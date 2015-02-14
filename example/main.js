@@ -1,4 +1,4 @@
-import {ActionSet, Store} from './fluxounet';
+import {ActionSet, Store} from '..';
 import * as React from 'react';
 import mainActions from './mainActions';
 import mainStore from './mainStore';
