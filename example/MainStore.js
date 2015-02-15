@@ -1,4 +1,4 @@
-import {Store} from './fluxounet';
+import {Store} from '..';
 import mainActions from './mainActions';
 
 /*
