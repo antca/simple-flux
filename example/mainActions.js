@@ -1,4 +1,4 @@
-import {ActionSet} from './fluxounet';
+import {ActionSet} from '..';
 
 /*
 Create an ActionSet, this will be the 'remote controller' to send data to stores
