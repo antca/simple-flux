@@ -1,4 +1,2 @@
-import ActionSet from './lib/ActionSet';
-import Store from './lib/Store';
-
-export {ActionSet, Store};
+import SimpleFlux from './lib/SimpleFlux';
+export default SimpleFlux;

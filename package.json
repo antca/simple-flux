@@ -1,6 +1,6 @@
 {
   "name": "simple-flux",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A little flux implementation inspired by refluxjs and focused on React components and ease of use.",
   "main": "index.js",
   "directories": {
